@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafulDev&layout=compact&theme=dark)](https://github.com/AsrafulDev/github-readme-stats)
 
 ### Recent Projects
-- [Project 1](https://github.com/AsrafulDev/simple-web-design): Brief description of what this project is about.
+- [CPT Marquee Shortcode](https://github.com/AsrafulDev/cpt-marquee-shortcode): Display custom post type titles in a horizontal marquee or vertical list, with options for limit, speed, direction, separator, prefix, and links.
 - [Project 2](https://github.com/AsrafulDev/word-typing-game): Brief description of what this project is about.
 - [Project 3](https://github.com/AsrafulDev/hbs): Brief description of what this project is about.
 
